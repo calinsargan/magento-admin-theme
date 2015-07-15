@@ -1,0 +1,6 @@
+src/skin/adminhtml/default/*		skin/adminhtml/default/
+src/app/code/community/Bubble/*		app/code/community/Bubble/
+src/app/design/adminhtml/base/default/layout/*	app/design/adminhtml/base/default/layout/
+src/app/design/adminhtml/base/default/template/*	app/design/adminhtml/base/default/template/
+src/app/design/adminhtml/default/*	app/design/adminhtml/default/
+src/app/etc/modules/*	app/etc/modules/
