@@ -6,6 +6,5 @@
             <action method="addItem"><type>skin_css</type><name>override.css</name></action>
             <action method="addItem"><type>skin_css</type><name>form.css</name></action>
         </reference>
-        <remove name="footer" />
     </default>
 </layout>
